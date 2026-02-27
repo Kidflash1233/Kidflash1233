@@ -7,16 +7,13 @@
 
 I build and experiment with **systems**, **automation**, and **practical apps**.
 
->>>>>> Welcome to the Kidflash1233 wiki!
-
 Wikis provide a place in your repository to lay out the roadmap of your project, show the current status, and document software better, together.
 
 ## 📌 Featured Projects
 - [hydra-os](https://github.com/Kidflash1233/hydra-os) — OS/systems experimentation and learning.
-- [Fake-CRT](https://github.com/Kidflash1233/Fake-CRT) — **canonical** retro CRT terminal project.
-- [Py_Game](https://github.com/Kidflash1233/Py_Game) — Python game development experiments.
+- [Fake-CRT](https://github.com/Kidflash1233/Fake-CRT) — **canonical** retro CRT terminal project. Used in my Ravon.dev website 
+- [Py_Game](https://github.com/Kidflash1233/Py_Game) — Python game development experiments. A TUI based story game.
 - [ChildCareManagementSystem](https://github.com/Kidflash1233/ChildCareManagementSystem) — practical management workflows.
-- [JimsGarage](https://github.com/Kidflash1233/JimsGarage) — business/garage management app experiments.
 
 ## 📊 GitHub Stats
 <p>
